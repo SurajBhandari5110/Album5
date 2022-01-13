@@ -150,6 +150,26 @@ a{
     height: 9em;
     
 }
+.b7{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic7.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 9em;
+  
+    height: 9em;
+    
+}
+.b8{
+    border: 1px solid rgb(143, 87, 61);
+    background-image: url("pic8.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 9em;
+  
+    height: 9em;
+    
+}
 
 p{
     font-family: 'Yanone Kaffeesatz', sans-serif;
